@@ -9,8 +9,8 @@ namespace AmazonUpperCase
     {
         private static string awsSecret = "";
         private static string awsAccess = "";
-        private static string bucket = "lc-oodev";
-        private static string folder = "Marque";
+        private static string bucket = "";
+        private static string folder = "";
 
 
         static void Main(string[] args)
