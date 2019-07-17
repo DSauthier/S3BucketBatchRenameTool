@@ -7,8 +7,8 @@ namespace AmazonUpperCase
 {
     class Program
     {
-        private static string awsSecret = "YmsTPt8zlGX6rpoVm9vSfiSP5gHYEkFeApUZ+tKh";
-        private static string awsAccess = "AKIAIOFX7CA5EM6MXGEQ";
+        private static string awsSecret = "";
+        private static string awsAccess = "";
         private static string bucket = "lc-oodev";
         private static string folder = "Marque";
 
