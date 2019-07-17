@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\BatchRenameUpper\bin\Debug\BatchRenameUpper.exe.config
+C:\Users\danie\source\repos\BatchRenameUpper\bin\Debug\BatchRenameUpper.exe
+C:\Users\danie\source\repos\BatchRenameUpper\bin\Debug\BatchRenameUpper.pdb
+C:\Users\danie\source\repos\BatchRenameUpper\bin\Debug\AWSSDK.Core.dll
+C:\Users\danie\source\repos\BatchRenameUpper\bin\Debug\AWSSDK.S3.dll
+C:\Users\danie\source\repos\BatchRenameUpper\bin\Debug\AWSSDK.Core.pdb
+C:\Users\danie\source\repos\BatchRenameUpper\bin\Debug\AWSSDK.Core.xml
+C:\Users\danie\source\repos\BatchRenameUpper\bin\Debug\AWSSDK.S3.pdb
+C:\Users\danie\source\repos\BatchRenameUpper\bin\Debug\AWSSDK.S3.xml
+C:\Users\danie\source\repos\BatchRenameUpper\obj\Debug\BatchRenameUpper.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\BatchRenameUpper\obj\Debug\BatchRenameUpper.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\BatchRenameUpper\obj\Debug\BatchRenameUpper.csproj.CopyComplete
+C:\Users\danie\source\repos\BatchRenameUpper\obj\Debug\BatchRenameUpper.exe
+C:\Users\danie\source\repos\BatchRenameUpper\obj\Debug\BatchRenameUpper.pdb
